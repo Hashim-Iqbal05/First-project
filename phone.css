@@ -217,7 +217,7 @@
     }
     
     .homepage h1{
-        font-size: 52px;
+        font-size: 35px;
         font-family: 'inter';
         font-weight: 600;
         color: #ffffff;
@@ -227,7 +227,7 @@
     .homepage p{
         font-family: 'inter';
         font-weight: 350;
-        font-size: 20px;
+        font-size: 15px;
         color: #DBDFEC;
         width: 380px;
     }
