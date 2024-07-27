@@ -606,8 +606,8 @@ span{
     color: #ffffff;
     columns: #ffffff;
     position: absolute;
-    top: 20px;
-    right: 170px;
+    top: 2%;
+    right: 66.5%;
     cursor: pointer;
 }
 
@@ -621,8 +621,8 @@ span{
     flex-direction: row;
     gap: 32px;
     position: absolute;
-    top: 350px;
-    right: 40px;
+    top: 84%;
+    right: 30%;
 }
 .section5 .both2 .left{
     display: flex;
